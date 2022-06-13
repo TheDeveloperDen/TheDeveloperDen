@@ -1,7 +1,5 @@
-# The Developer Den
-
 <p align="center">
-  <img src="https://developerden.net/logo.png"/>
+  <img src="https://i.imgur.com/QAJotaz.png" width="128px"/>
 </p>
 
 Welcome to the Developer Den! 
