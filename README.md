@@ -1,7 +1,7 @@
 # The Developer Den
 
 <p align="center">
-  <img src="https://static.developerden.org/logo.png"/>
+  <img src="https://static.developerden.org/banner.png"/>
 </p>
 
 Welcome to the Developer Den! 
