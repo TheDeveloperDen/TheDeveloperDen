@@ -1,7 +1,7 @@
 # The Developer Den
 
 <p align="center">
-  <img src="https://developerden.net/logo.png"/>
+  <img src="https://static.developerden.org/logo.png"/>
 </p>
 
 Welcome to the Developer Den! 
@@ -9,7 +9,7 @@ This is an organisation of passionate and committed developers who want to creat
 
 We're inclusive of all and have an active community of programmers, ranging from brand new to professionals.
 
-**Like what you hear? [Join the Discord!](https://developerden.net/discord)**
+**Like what you hear? [Join the Discord!](https://developerden.org/discord)**
 
 
 
